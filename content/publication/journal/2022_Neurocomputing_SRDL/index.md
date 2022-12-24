@@ -2,7 +2,7 @@
 title: "Semantic Representation and Dependency Learning for Multi-Label Image Recognition"
 authors:
 - <u>**Tao Pu**</u>
-- Lixian Yuan
+- Mingzhan Sun
 - Hefeng Wu<sup>*</sup>
 - Tianshui Chen 
 - Ling Tian
