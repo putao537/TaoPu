@@ -1,0 +1,27 @@
+{{/* News Widget */}}
+
+{{/* Initialise */}}
+{{ $st := .page }}
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+      <h1>{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
+      {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+  </div>
+  <div class="col-12 col-lg-8 section-heading">
+      <tr>
+        <th scope="row"><b>[Dec, 2021]</b></th>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Two papers get accepted by <b>AAAI 2022</b>.</td>
+      </tr>
+      <br />
+      <tr>
+        <th scope="row"><b>[Nov, 2021]</b></th>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; One paper gets accepted by <b>T-PAMI</b>.</td>
+      </tr>
+      <br />
+      <tr>
+        <th scope="row"><b>[Mar, 2021]</b></th>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; One paper gets accepted by <b>ICRA 2021</b>.</td>
+      </tr>
+  </div>
+</div>

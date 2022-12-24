@@ -1,0 +1,38 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+
+<div class="universal-wrapper">
+
+  {{ with .Content }}
+  <div class="article-style">{{ . }}</div>
+  {{ end }}
+  
+  <div class="card-simple">
+    <font color=#808B96>Category:</font>
+    <span class="article-categories">
+      <a href="../categories/research">[Research]</a>
+      <a href="../categories/tech">[Tech]</a>
+      <a href="../categories/finance">[Finance]</a>
+
+      <a href="../categories/life">[Life]</a>
+    </span>
+  </div>
+
+  {{ $paginator := .Paginate .Data.Pages }}
+  {{ range $paginator.Pages }}
+    {{ if eq $.Params.view 1 }}
+      {{ partial "li_list" . }}
+    {{ else if eq $.Params.view 3 }}
+      {{ partial "li_card" . }}
+    {{ else }}
+      {{ partial "li_compact" . }}
+    {{ end }}
+  {{ end }}
+
+  {{ partial "pagination" . }}
+
+</div>
+
+{{- end -}}
