@@ -34,6 +34,7 @@ featured: false #true
 links:
 - name: Arxiv
   url: 'https://arxiv.org/abs/2112.10941'
+- name: CCF-A
 
 url_pdf: 'https://aaai-2022.virtualchair.net/poster_aaai1133'
 url_code: 'https://github.com/HCPLab-SYSU/HCP-MLR-PL'

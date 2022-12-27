@@ -32,9 +32,10 @@ tags:
 #- Source Themes
 featured: false #true
 
-#links:
-#- name: Custom Link
-#  url: http://example.org
+links:
+- name: CCF-A
+- name: 中科院一区
+- name: IF:24.31
 
 url_pdf: 'https://ieeexplore.ieee.org/document/9628054'
 url_code: 'https://github.com/HCPLab-SYSU/CD-FER-Benchmark'

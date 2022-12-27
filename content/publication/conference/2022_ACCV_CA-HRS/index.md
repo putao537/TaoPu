@@ -30,11 +30,10 @@ tags:
 #- Source Themes
 featured: false #true
 
-#links:
-#- name: Arxiv
-#  url: 'https://arxiv.org/abs/2203.02172'
+links:
+- name: CCF-C
 
-url_pdf: '' #'https://www.aaai.org/AAAI22Papers/AAAI-1134.PuT.pdf'
+url_pdf: 'https://openaccess.thecvf.com/content/ACCV2022/papers/Lu_Content-Aware_Hierarchical_Representation_Selection_for_Cross-View_Geo-Localization_ACCV_2022_paper.pdf' 
 url_code: '' #'https://github.com/HCPLab-SYSU/HCP-MLR-PL'
 url_dataset: ''
 url_poster: ''

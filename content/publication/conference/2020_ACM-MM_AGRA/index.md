@@ -31,9 +31,9 @@ tags:
 #- Source Themes
 featured: false #true
 
-#links:
-#- name: Custom Link
-#  url: http://example.org
+links:
+- name: CCF-A
+- name: Oral
 
 url_pdf: 'https://dl.acm.org/doi/10.1145/3394171.3413822'
 url_code: 'https://github.com/HCPLab-SYSU/CD-FER-Benchmark'

@@ -20,8 +20,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "DAMI, Research Center"
-  company_url = ""
+  company = "DMAI, Research Center"
+  company_url = "https://www.dm-ai.cn/"
   location = "Guangzhou, China"
   date_start = "2021-03-01"
   date_end = "2021-07-01"
@@ -29,8 +29,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "DAMI, Research Center"
-  company_url = ""
+  company = "DMAI, Research Center"
+  company_url = "https://www.dm-ai.cn/"
   location = "Guangzhou, China"
   date_start = "2019-02-01"
   date_end = "2020-05-01"

@@ -1,0 +1,42 @@
+---
+title: '论文阅读列表'
+subtitle: 
+summary: 记录看过人工智能相关的论文.
+authors:
+tags:
+- Paper
+- Deep Learning
+categories:
+- AI
+date: "2022-12-26T00:00:00Z"
+lastmod: "2022-12-26T00:00:00Z"
+featured: false
+draft: false
+---
+
+## Visual Reasoning
+
+### Multi-label Image Recognition
+- General Multi-label Image Classification with Transformers, CVPR 2021, [[PDF]](https://arxiv.org/abs/2011.14027)
+- Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition, ICCV 2019, [[PDF]](https://arxiv.org/abs/1908.07325)
+
+### Visual Relationship Detection
+ - Spatial-Temporal Transformer for Dynamic Scene Graph Generation, ICCV 2021, [[PDF]](https://arxiv.org/abs/2107.12309)
+
+
+
+## Pre-training & Fine-tuning
+
+### Computer Vision
+
+### Natural Language Processing
+- Language Models are Few-Shot Learners, NeurIPS 2020, [[PDF]](https://arxiv.org/abs/2005.14165)
+- Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context, ACL 2019, [[PDF]](https://arxiv.org/abs/1901.02860)
+- XLNet: Generalized Autoregressive Pretraining for Language Understanding, arxiv 2019, [[PDF]](https://arxiv.org/abs/1906.08237)
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, NAACL 2019, [[PDF]](https://arxiv.org/abs/1810.04805)
+- Language Models are Unsupervised Multitask Learners, OpenAI Blog 2019, [[PDF]](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) 
+- Improving Language Understanding by Generative Pre-Training, OpenAI Blog 2018, [[PDF]](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
+- Deep contextualized word representations, NAACL 2018, [[PDF]](https://arxiv.org/abs/1802.05365)
+
+### Robotic
+- RT-1: Robotics Transformer for Real-World Control at Scale, arxiv 2022, [[PDF]](https://robotics-transformer.github.io/assets/rt1.pdf)

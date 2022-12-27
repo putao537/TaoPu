@@ -35,6 +35,9 @@ featured: false #true
 links:
 - name: Arxiv
   url: https://arxiv.org/abs/2204.03795
+- name: CCF-C
+- name: 中科院二区
+- name: IF:5.72
 
 url_pdf: '' #'https://ieeexplore.ieee.org/document/9628054'
 url_code: ''

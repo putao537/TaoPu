@@ -4,19 +4,19 @@
 {{ $st := .page }}
 
 <div class="row">
-  <div class="col-12 col-lg-3 section-heading">
+  <div class="col-12 col-lg-4 section-heading">
       <h1>{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
       {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
-  <div class="col-12 col-lg-9 section-heading">
+  <div class="col-18 col-lg-12 section-heading">
       <tr>
         <th scope="row"><b>[2021，2022]</b></th>
-        <td>&nbsp;&nbsp;&nbsp;&nbsp; Tecent Scholarship, Tencent Ltd. (腾讯奖学金, <b>Top 2%</b> in SYSU, Two Times)</td>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp; Tecent Scholarship, Tencent Ltd. (腾讯奖学金, <font color=#FF0000><b>Top 2%</b></font> in SYSU, Two Times)</td>
       </tr>
       <br />
       <tr>
         <th scope="row"><b>[Fall, 2018]</b></th>
-        <td>&nbsp;&nbsp;&nbsp;&nbsp; Undergraduate National Scholarship, Ministry of Education of China. (<b>Top 2%</b> in SYSU)</td>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp; Undergraduate National Scholarship, Ministry of Education of China. (<font color=#FF0000><b>Top 2%</b></font> in SYSU)</td>
       </tr>
   </div>
 </div>

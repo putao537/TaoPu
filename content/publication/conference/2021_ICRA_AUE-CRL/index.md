@@ -31,9 +31,8 @@ tags:
 #- Source Themes
 featured: false #true
 
-#links:
-#- name: Custom Link
-#  url: http://example.org
+links:
+- name: CCF-B
 
 url_pdf: 'https://ieeexplore.ieee.org/document/9561252'
 url_code: 'https://github.com/HCPLab-SYSU/AUE-CRL'
