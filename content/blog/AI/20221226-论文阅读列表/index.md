@@ -23,6 +23,8 @@ draft: false
 ### Visual Relationship Detection
  - Spatial-Temporal Transformer for Dynamic Scene Graph Generation, ICCV 2021, [[PDF]](https://arxiv.org/abs/2107.12309)
 
+### Scene Parsing
+- Robust Scene Parsing by Mining Supportive Knowledge From Dataset, T-NNLS 2021, [[PDF]](https://ieeexplore.ieee.org/document/9537741)
 
 
 ## Pre-training & Fine-tuning
