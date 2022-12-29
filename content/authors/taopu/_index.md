@@ -21,7 +21,7 @@ organizations:
 bio: #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Holistic Scene Parsing
+- Holistic Scene Understanding
 - Knowledge Reasoning
 - Autonomous Robotics
 
