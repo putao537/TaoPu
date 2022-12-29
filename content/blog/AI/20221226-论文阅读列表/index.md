@@ -21,7 +21,8 @@ draft: false
 - Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition, ICCV 2019, [[PDF]](https://arxiv.org/abs/1908.07325)
 
 ### Visual Relationship Detection
- - Spatial-Temporal Transformer for Dynamic Scene Graph Generation, ICCV 2021, [[PDF]](https://arxiv.org/abs/2107.12309)
+- Dynamic Scene Graph Generation via Anticipatory Pre-training, CVPR 2022, [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Dynamic_Scene_Graph_Generation_via_Anticipatory_Pre-Training_CVPR_2022_paper.pdf)   
+- Spatial-Temporal Transformer for Dynamic Scene Graph Generation, ICCV 2021, [[PDF]](https://arxiv.org/abs/2107.12309)
 
 ### Scene Parsing
 - Robust Scene Parsing by Mining Supportive Knowledge From Dataset, T-NNLS 2021, [[PDF]](https://ieeexplore.ieee.org/document/9537741)
