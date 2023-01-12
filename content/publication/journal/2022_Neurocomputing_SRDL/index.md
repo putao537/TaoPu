@@ -39,7 +39,7 @@ links:
 - name: 中科院二区
 - name: IF:5.72
 
-url_pdf: '' #'https://ieeexplore.ieee.org/document/9628054'
+url_pdf: 'https://authors.elsevier.com/sd/article/S0925-2312(23)00028-0'
 url_code: ''
 url_dataset: ''
 url_poster: ''
