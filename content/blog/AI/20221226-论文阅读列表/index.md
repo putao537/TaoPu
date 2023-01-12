@@ -36,6 +36,7 @@ draft: false
 ## Pre-training & Fine-tuning
 
 ### Computer Vision
+- Learning Transferable Visual Models From Natural Language Supervision, ICML 2021, [[PDF]](https://arxiv.org/abs/2103.00020)
 
 ### Natural Language Processing
 - Language Models are Few-Shot Learners, NeurIPS 2020, [[PDF]](https://arxiv.org/abs/2005.14165)
