@@ -27,6 +27,11 @@ draft: false
 ### Scene Parsing
 - Robust Scene Parsing by Mining Supportive Knowledge From Dataset, T-NNLS 2021, [[PDF]](https://ieeexplore.ieee.org/document/9537741)
 
+## Embodied AI
+
+### General Embodied Agent
+- MINEDOJO: Building Open-Ended Embodied Agents with Internet-Scale Knowledge, NeurIPS 2022, [[PDF]](https://arxiv.org/abs/2206.08853)  
+
 
 ## Pre-training & Fine-tuning
 
