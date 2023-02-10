@@ -36,6 +36,7 @@ draft: false
 ## Pre-training & Fine-tuning
 
 ### Computer Vision
+- A Unified Sequence Interface for Vision Tasks, arxiv 2022, [[PDF]](https://arxiv.org/abs/2206.07669)  
 - Learning to Prompt for Vision-Language Models, IJCV 2022, [[PDF]](https://arxiv.org/abs/2109.01134)  
 - Learning Transferable Visual Models From Natural Language Supervision, ICML 2021, [[PDF]](https://arxiv.org/abs/2103.00020)
 
