@@ -17,7 +17,7 @@ draft: false
 ## Visual Reasoning
 
 ### Multi-label Image Recognition
-- Texts as Images in Prompt Tuning for Multi-Label Image Recognition, arxiv 2022, [[PDF]](https://arxiv.org/abs/2211.12739)  
+- Texts as Images in Prompt Tuning for Multi-Label Image Recognition, CVPR 2022, [[PDF]](https://arxiv.org/abs/2211.12739)  
 - DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations, arxiv 2022, [[PDF]](https://arxiv.org/abs/2206.09541)  
 - General Multi-label Image Classification with Transformers, CVPR 2021, [[PDF]](https://arxiv.org/abs/2011.14027)
 - Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition, ICCV 2019, [[PDF]](https://arxiv.org/abs/1908.07325)
@@ -39,6 +39,7 @@ draft: false
 
 ### Computer Vision
 - A Unified Sequence Interface for Vision Tasks, arxiv 2022, [[PDF]](https://arxiv.org/abs/2206.07669)  
+- Conditional Prompt Learning for Vision-Language Models, CVPR 2022, [[PDF]](https://arxiv.org/abs/2203.05557)  
 - Learning to Prompt for Vision-Language Models, IJCV 2022, [[PDF]](https://arxiv.org/abs/2109.01134)  
 - Learning Transferable Visual Models From Natural Language Supervision, ICML 2021, [[PDF]](https://arxiv.org/abs/2103.00020)
 
