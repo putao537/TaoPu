@@ -71,4 +71,4 @@ user_groups:
 ---
 I am currently a PhD student at <a href=www.sysu-hcp.net>Human Cyber Physical Intelligence Integration Lab</a> of Sun Yat-Sen University, advised by Prof. <a href=www.linliang.net>Liang Lin</a>. Before that, I received my Bachelor Degree from Sun Yat-Sen University in 2020.
 
-<font color=#FF0000>Feel free to reach me if you have research interests similar to mine! Also, I am open for collaboration and internship positions (also full-time positions after 2025)! </font>
+<font color=#FF0000>I am open for collaboration and internship positions (also full-time positions after 2025)! </font>
