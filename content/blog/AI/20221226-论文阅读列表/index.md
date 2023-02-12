@@ -17,6 +17,8 @@ draft: false
 ## Visual Reasoning
 
 ### Multi-label Image Recognition
+- Texts as Images in Prompt Tuning for Multi-Label Image Recognition, arxiv 2022, [[PDF]](https://arxiv.org/abs/2211.12739)  
+- DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations, arxiv 2022, [[PDF]](https://arxiv.org/abs/2206.09541)  
 - General Multi-label Image Classification with Transformers, CVPR 2021, [[PDF]](https://arxiv.org/abs/2011.14027)
 - Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition, ICCV 2019, [[PDF]](https://arxiv.org/abs/1908.07325)
 
