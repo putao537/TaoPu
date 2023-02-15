@@ -29,6 +29,9 @@ draft: false
 ### Scene Parsing
 - Robust Scene Parsing by Mining Supportive Knowledge From Dataset, T-NNLS 2021, [[PDF]](https://ieeexplore.ieee.org/document/9537741)
 
+### Visual Commense Reasoning
+- From Recognition to Cognition: Visual Commonsense Reasoning, CVPR 2019, [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zellers_From_Recognition_to_Cognition_Visual_Commonsense_Reasoning_CVPR_2019_paper.pdf)  
+
 ## Embodied AI
 
 ### General Embodied Agent
