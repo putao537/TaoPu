@@ -45,6 +45,7 @@ draft: false
 - Conditional Prompt Learning for Vision-Language Models, CVPR 2022, [[PDF]](https://arxiv.org/abs/2203.05557)  
 - Learning to Prompt for Vision-Language Models, IJCV 2022, [[PDF]](https://arxiv.org/abs/2109.01134)  
 - Learning Transferable Visual Models From Natural Language Supervision, ICML 2021, [[PDF]](https://arxiv.org/abs/2103.00020)
+- Unifying Vision-and-Language Tasks via Text Generation, ICML 2021, [[PDF]](http://proceedings.mlr.press/v139/cho21a/cho21a.pdf)  
 
 ### Natural Language Processing
 - Language Models are Few-Shot Learners, NeurIPS 2020, [[PDF]](https://arxiv.org/abs/2005.14165)
