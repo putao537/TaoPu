@@ -22,15 +22,15 @@ draft: false
 - General Multi-label Image Classification with Transformers, CVPR 2021, [[PDF]](https://arxiv.org/abs/2011.14027)
 - Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition, ICCV 2019, [[PDF]](https://arxiv.org/abs/1908.07325)
 
-### Visual Relationship Detection
+### Scene Understanding
+- Robust Scene Parsing by Mining Supportive Knowledge From Dataset, T-NNLS 2021, [[PDF]](https://ieeexplore.ieee.org/document/9537741)
+- From Recognition to Cognition: Visual Commonsense Reasoning, CVPR 2019, [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zellers_From_Recognition_to_Cognition_Visual_Commonsense_Reasoning_CVPR_2019_paper.pdf)  
+
+### Video Understanding
+- SWINBERT: End-to-End Transformers with Sparse Attention for Video Captioning, CVPR 2022, [[PDF]](https://arxiv.org/abs/2111.13196)
+- Video Swin Transformer, CVPR 2022, [[PDF]](https://arxiv.org/abs/2106.13230)
 - Dynamic Scene Graph Generation via Anticipatory Pre-training, CVPR 2022, [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Dynamic_Scene_Graph_Generation_via_Anticipatory_Pre-Training_CVPR_2022_paper.pdf)   
 - Spatial-Temporal Transformer for Dynamic Scene Graph Generation, ICCV 2021, [[PDF]](https://arxiv.org/abs/2107.12309)
-
-### Scene Parsing
-- Robust Scene Parsing by Mining Supportive Knowledge From Dataset, T-NNLS 2021, [[PDF]](https://ieeexplore.ieee.org/document/9537741)
-
-### Visual Commense Reasoning
-- From Recognition to Cognition: Visual Commonsense Reasoning, CVPR 2019, [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zellers_From_Recognition_to_Cognition_Visual_Commonsense_Reasoning_CVPR_2019_paper.pdf)  
 
 ## Embodied AI
 
